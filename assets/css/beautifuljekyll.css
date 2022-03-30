@@ -1100,3 +1100,8 @@ pre {
     display: inline-block;
   }
 }
+
+
+#aniimated-thumbnials img {
+  margin-top:6px
+}
