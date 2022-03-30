@@ -44,14 +44,14 @@ layout: base
       </article>
       
       
-<div id="aniimated-thumbnials">
-  {% for img in post.images %}
-    <a href="is_resimleri/{{ post.slug }}/tam/{{ img }}.jpg">
-      <img title = "{{ post.title }}" alt = "{{ post.title }}" src="is_resimleri/{{ post.slug }}/mini/{{ img }}.jpg" />
-    </a>	
-  {% endfor %}
-</div>
-      
+      <div id="aniimated-thumbnials">
+        {% for img in page.images %}
+          <a href="is_resimleri/{{ post.slug }}/tam/{{ img }}.jpg">
+            <img title = "{{ post.title }}" alt = "{{ post.title }}" src="is_resimleri/{{ post.slug }}/mini/{{ img }}.jpg" />
+          </a>	
+        {% endfor %}
+      </div>
+
       
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
