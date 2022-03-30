@@ -2,6 +2,10 @@
 layout: page
 title: İletişim
 ---
+
+## Özkaplan Ferforje - Demirci Bekir
+Türkiye çapında çelik konstrüksiyon işleri
+
 ### Telefon
 (+90) 536 921 20 24
 
