@@ -14,7 +14,9 @@ author: Demirci Bekir
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  GALERİ: galeri
   İLETİŞİM: "iletisim"
+  "0536 921 20 24": "tel:+905369212024"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
